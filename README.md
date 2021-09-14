@@ -12,6 +12,9 @@ in the first page you enter a cosnsidered number, you can reset it or go to the 
 + app is implemented an animation using [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)  
 </br> 
 
+### requirements
++ NodeJS
++ Android/ios Virtual or physical Device
 
 ![res](https://user-images.githubusercontent.com/56467180/133289437-fac271df-b48b-476f-864b-2c5f333c3429.jpg)
 
