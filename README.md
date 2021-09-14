@@ -18,6 +18,8 @@ in the first page you enter a cosnsidered number, you can reset it or go to the 
 
 ![res](https://user-images.githubusercontent.com/56467180/133289437-fac271df-b48b-476f-864b-2c5f333c3429.jpg)
 
+the app imlimentation is highly inspired form a [react-native-course](https://www.udemy.com/course/react-native-the-practical-guide/) in Udemy
+
 <br/>
 
 ### note
